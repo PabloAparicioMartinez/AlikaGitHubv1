@@ -14,5 +14,6 @@ class MainActivity : AppCompatActivity() {
         println("Commit en Branch_02")
 
         println("Cambio A (master)")
+        println("Cambio B (Branch_02)")
     }
 }
